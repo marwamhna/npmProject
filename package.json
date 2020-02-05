@@ -13,7 +13,7 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
-    "i18next": "1.7.9",
+    "i18next": "1.10.3",
     "bootstrap": "3.3.7"
   }
 }
